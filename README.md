@@ -46,7 +46,7 @@ https://tanvitater.github.io/YouTubeClone/
 
 **Tanvi Tater**  
 📎 [GitHub](https://github.com/TanviTater)  
-💼 [LinkedIn](https://www.linkedin.com/in/tanvitater)
+💼 [LinkedIn]([https://www.linkedin.com/in/tanvitater](https://www.linkedin.com/in/tanvi-tater-aa620828a/))
 
 ## ⚠️ Disclaimer
 
