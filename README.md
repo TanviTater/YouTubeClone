@@ -40,7 +40,7 @@ https://tanvitater.github.io/YouTubeClone/
 - HTML5
 - CSS3
 - Flexbox & Grid layout techniques
-- Google Fonts / Icons (if used)
+- Google Fonts / Icons 
 
 ## 🙋‍♀️ Author
 
